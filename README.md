@@ -1,3 +1,3 @@
-HI,
+Hi,
 
-Please see this file
+Nice to see you here, please see some of my projects!
